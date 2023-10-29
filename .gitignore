@@ -1,0 +1,15 @@
+# Dependecies
+node_modules
+
+# Database
+db/*.sqlite3
+
+# Enviroment
+.env
+.env.test
+
+# Build
+build
+
+# Code editor
+.vscode
